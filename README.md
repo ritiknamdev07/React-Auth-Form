@@ -19,11 +19,11 @@
 
 
 1. Install Dependencies:
-   bash
+  ```bash
    npm install
 
 2. Start the Development Server:
-   ``bash``
+   ```bash
    npm run dev
 
 3.

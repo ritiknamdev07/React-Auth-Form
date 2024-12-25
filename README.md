@@ -20,10 +20,10 @@
 
 1. Install Dependencies:
   ```bash
-   npm install
+   npm install```
 
 2. Start the Development Server:
    ```bash
-   npm run dev
+   npm run dev```
 
 3.
